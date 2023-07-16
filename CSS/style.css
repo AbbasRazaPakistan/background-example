@@ -1,0 +1,11 @@
+html {
+  font-size: 32px;
+}
+body {
+  background-image: url(../images/library.jpg);
+  color: white;
+}
+p,
+h1 {
+  text-shadow: 10px 10px 30px red;
+}
